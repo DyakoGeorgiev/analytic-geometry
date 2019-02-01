@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ProjectLinearAlgebra"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProjectLinearAlgebra">
+				<Option output="C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/ProjectLinearAlgebra.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProjectLinearAlgebra"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProjectLinearAlgebra/fast">
+				<Option output="C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/ProjectLinearAlgebra.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProjectLinearAlgebra/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/exceptions/EqualPointException.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/exceptions/EqualPointException.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/exceptions/VectorLengthException.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/exceptions/VectorLengthException.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/main.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Line.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Line.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Point.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Point.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Triangle.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Triangle.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Vector.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Vector.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/DefaultMenu.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/DefaultMenu.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/Menu.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/OperationsMenu.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/PointMenu.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/PointMenu.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/StringsMenu.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/StringsMenu.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/VectorMenu.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/VectorMenu.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
