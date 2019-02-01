@@ -122,33 +122,6 @@ ProjectLinearAlgebra/fast:
 	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/build
 .PHONY : ProjectLinearAlgebra/fast
 
-main.obj: main.cpp.obj
-
-.PHONY : main.obj
-
-# target to build an object file
-main.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.obj
-.PHONY : main.cpp.obj
-
-main.i: main.cpp.i
-
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.s
-.PHONY : main.cpp.s
-
 src/exceptions/EqualPointException.obj: src/exceptions/EqualPointException.cpp.obj
 
 .PHONY : src/exceptions/EqualPointException.obj
@@ -202,6 +175,33 @@ src/exceptions/VectorLengthException.s: src/exceptions/VectorLengthException.cpp
 src/exceptions/VectorLengthException.cpp.s:
 	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.s
 .PHONY : src/exceptions/VectorLengthException.cpp.s
+
+src/main.obj: src/main.cpp.obj
+
+.PHONY : src/main.obj
+
+# target to build an object file
+src/main.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj
+.PHONY : src/main.cpp.obj
+
+src/main.i: src/main.cpp.i
+
+.PHONY : src/main.i
+
+# target to preprocess a source file
+src/main.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
+
+src/main.s: src/main.cpp.s
+
+.PHONY : src/main.s
+
+# target to generate assembly for a file
+src/main.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
 src/model/Line.obj: src/model/Line.cpp.obj
 
@@ -428,15 +428,15 @@ help:
 	@echo ... ProjectLinearAlgebra
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
 	@echo ... src/exceptions/EqualPointException.obj
 	@echo ... src/exceptions/EqualPointException.i
 	@echo ... src/exceptions/EqualPointException.s
 	@echo ... src/exceptions/VectorLengthException.obj
 	@echo ... src/exceptions/VectorLengthException.i
 	@echo ... src/exceptions/VectorLengthException.s
+	@echo ... src/main.obj
+	@echo ... src/main.i
+	@echo ... src/main.s
 	@echo ... src/model/Line.obj
 	@echo ... src/model/Line.i
 	@echo ... src/model/Line.s

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.obj"
+  "CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj"
   "CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj"
   "CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.obj"
   "CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj"

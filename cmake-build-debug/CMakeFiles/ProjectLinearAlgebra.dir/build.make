@@ -56,18 +56,18 @@ include CMakeFiles/ProjectLinearAlgebra.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ProjectLinearAlgebra.dir/flags.make
 
-CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\main.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\main.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\main.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\main.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\main.cpp > CMakeFiles\ProjectLinearAlgebra.dir\main.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\main.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\main.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\main.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\main.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\main.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\main.cpp.s
 
 CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
 CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj: ../src/exceptions/EqualPointException.cpp
@@ -201,7 +201,7 @@ CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.s: cmake_force
 
 # Object files for target ProjectLinearAlgebra
 ProjectLinearAlgebra_OBJECTS = \
-"CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.obj" \
+"CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj" \
 "CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj" \
 "CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.obj" \
 "CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj" \
@@ -216,7 +216,7 @@ ProjectLinearAlgebra_OBJECTS = \
 # External object files for target ProjectLinearAlgebra
 ProjectLinearAlgebra_EXTERNAL_OBJECTS =
 
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj
 ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj
 ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.obj
 ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj

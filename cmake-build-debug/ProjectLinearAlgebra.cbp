@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/main.cpp">
-			<Option target="ProjectLinearAlgebra"/>
-		</Unit>
 		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/exceptions/EqualPointException.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
@@ -93,6 +90,9 @@
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
 		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/exceptions/VectorLengthException.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/main.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
 		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Line.cpp">
