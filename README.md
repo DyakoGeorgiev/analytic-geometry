@@ -1,3 +1,3 @@
-# linear-algebra
+# analytic-geometry
 
 CSCB209 Project
