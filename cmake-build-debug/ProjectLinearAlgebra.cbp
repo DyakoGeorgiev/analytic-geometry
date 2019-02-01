@@ -80,73 +80,73 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/exceptions/EqualPointException.cpp">
-			<Option target="ProjectLinearAlgebra"/>
-		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/exceptions/EqualPointException.h">
-			<Option target="ProjectLinearAlgebra"/>
-		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/exceptions/VectorLengthException.cpp">
-			<Option target="ProjectLinearAlgebra"/>
-		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/exceptions/VectorLengthException.h">
-			<Option target="ProjectLinearAlgebra"/>
-		</Unit>
 		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/main.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Line.cpp">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/exceptions/EqualPointException.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Line.h">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/exceptions/EqualPointException.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Point.cpp">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/exceptions/VectorLengthException.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Point.h">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/exceptions/VectorLengthException.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Triangle.cpp">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Line.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Triangle.h">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Line.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Vector.cpp">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Point.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/model/Vector.h">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Point.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/DefaultMenu.cpp">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Triangle.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/DefaultMenu.h">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Triangle.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/Menu.h">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Vector.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/OperationsMenu.h">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Vector.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/PointMenu.cpp">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/DefaultMenu.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/PointMenu.h">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/DefaultMenu.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/StringsMenu.cpp">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/Menu.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/StringsMenu.h">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/OperationsMenu.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/VectorMenu.cpp">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/PointMenu.cpp">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
-		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/ui/VectorMenu.h">
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/PointMenu.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/StringsMenu.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/StringsMenu.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/VectorMenu.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/VectorMenu.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
 		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/CMakeLists.txt">

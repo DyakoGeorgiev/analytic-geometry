@@ -122,60 +122,6 @@ ProjectLinearAlgebra/fast:
 	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/build
 .PHONY : ProjectLinearAlgebra/fast
 
-exceptions/EqualPointException.obj: exceptions/EqualPointException.cpp.obj
-
-.PHONY : exceptions/EqualPointException.obj
-
-# target to build an object file
-exceptions/EqualPointException.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.obj
-.PHONY : exceptions/EqualPointException.cpp.obj
-
-exceptions/EqualPointException.i: exceptions/EqualPointException.cpp.i
-
-.PHONY : exceptions/EqualPointException.i
-
-# target to preprocess a source file
-exceptions/EqualPointException.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.i
-.PHONY : exceptions/EqualPointException.cpp.i
-
-exceptions/EqualPointException.s: exceptions/EqualPointException.cpp.s
-
-.PHONY : exceptions/EqualPointException.s
-
-# target to generate assembly for a file
-exceptions/EqualPointException.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.s
-.PHONY : exceptions/EqualPointException.cpp.s
-
-exceptions/VectorLengthException.obj: exceptions/VectorLengthException.cpp.obj
-
-.PHONY : exceptions/VectorLengthException.obj
-
-# target to build an object file
-exceptions/VectorLengthException.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.obj
-.PHONY : exceptions/VectorLengthException.cpp.obj
-
-exceptions/VectorLengthException.i: exceptions/VectorLengthException.cpp.i
-
-.PHONY : exceptions/VectorLengthException.i
-
-# target to preprocess a source file
-exceptions/VectorLengthException.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.i
-.PHONY : exceptions/VectorLengthException.cpp.i
-
-exceptions/VectorLengthException.s: exceptions/VectorLengthException.cpp.s
-
-.PHONY : exceptions/VectorLengthException.s
-
-# target to generate assembly for a file
-exceptions/VectorLengthException.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.s
-.PHONY : exceptions/VectorLengthException.cpp.s
-
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -203,221 +149,275 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-model/Line.obj: model/Line.cpp.obj
+src/exceptions/EqualPointException.obj: src/exceptions/EqualPointException.cpp.obj
 
-.PHONY : model/Line.obj
-
-# target to build an object file
-model/Line.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.obj
-.PHONY : model/Line.cpp.obj
-
-model/Line.i: model/Line.cpp.i
-
-.PHONY : model/Line.i
-
-# target to preprocess a source file
-model/Line.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.i
-.PHONY : model/Line.cpp.i
-
-model/Line.s: model/Line.cpp.s
-
-.PHONY : model/Line.s
-
-# target to generate assembly for a file
-model/Line.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.s
-.PHONY : model/Line.cpp.s
-
-model/Point.obj: model/Point.cpp.obj
-
-.PHONY : model/Point.obj
+.PHONY : src/exceptions/EqualPointException.obj
 
 # target to build an object file
-model/Point.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.obj
-.PHONY : model/Point.cpp.obj
+src/exceptions/EqualPointException.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj
+.PHONY : src/exceptions/EqualPointException.cpp.obj
 
-model/Point.i: model/Point.cpp.i
+src/exceptions/EqualPointException.i: src/exceptions/EqualPointException.cpp.i
 
-.PHONY : model/Point.i
+.PHONY : src/exceptions/EqualPointException.i
 
 # target to preprocess a source file
-model/Point.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.i
-.PHONY : model/Point.cpp.i
+src/exceptions/EqualPointException.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.i
+.PHONY : src/exceptions/EqualPointException.cpp.i
 
-model/Point.s: model/Point.cpp.s
+src/exceptions/EqualPointException.s: src/exceptions/EqualPointException.cpp.s
 
-.PHONY : model/Point.s
+.PHONY : src/exceptions/EqualPointException.s
 
 # target to generate assembly for a file
-model/Point.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.s
-.PHONY : model/Point.cpp.s
+src/exceptions/EqualPointException.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.s
+.PHONY : src/exceptions/EqualPointException.cpp.s
 
-model/Triangle.obj: model/Triangle.cpp.obj
+src/exceptions/VectorLengthException.obj: src/exceptions/VectorLengthException.cpp.obj
 
-.PHONY : model/Triangle.obj
+.PHONY : src/exceptions/VectorLengthException.obj
 
 # target to build an object file
-model/Triangle.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.obj
-.PHONY : model/Triangle.cpp.obj
+src/exceptions/VectorLengthException.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.obj
+.PHONY : src/exceptions/VectorLengthException.cpp.obj
 
-model/Triangle.i: model/Triangle.cpp.i
+src/exceptions/VectorLengthException.i: src/exceptions/VectorLengthException.cpp.i
 
-.PHONY : model/Triangle.i
+.PHONY : src/exceptions/VectorLengthException.i
 
 # target to preprocess a source file
-model/Triangle.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.i
-.PHONY : model/Triangle.cpp.i
+src/exceptions/VectorLengthException.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.i
+.PHONY : src/exceptions/VectorLengthException.cpp.i
 
-model/Triangle.s: model/Triangle.cpp.s
+src/exceptions/VectorLengthException.s: src/exceptions/VectorLengthException.cpp.s
 
-.PHONY : model/Triangle.s
+.PHONY : src/exceptions/VectorLengthException.s
 
 # target to generate assembly for a file
-model/Triangle.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.s
-.PHONY : model/Triangle.cpp.s
+src/exceptions/VectorLengthException.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.s
+.PHONY : src/exceptions/VectorLengthException.cpp.s
 
-model/Vector.obj: model/Vector.cpp.obj
+src/model/Line.obj: src/model/Line.cpp.obj
 
-.PHONY : model/Vector.obj
+.PHONY : src/model/Line.obj
 
 # target to build an object file
-model/Vector.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.obj
-.PHONY : model/Vector.cpp.obj
+src/model/Line.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.obj
+.PHONY : src/model/Line.cpp.obj
 
-model/Vector.i: model/Vector.cpp.i
+src/model/Line.i: src/model/Line.cpp.i
 
-.PHONY : model/Vector.i
+.PHONY : src/model/Line.i
 
 # target to preprocess a source file
-model/Vector.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.i
-.PHONY : model/Vector.cpp.i
+src/model/Line.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.i
+.PHONY : src/model/Line.cpp.i
 
-model/Vector.s: model/Vector.cpp.s
+src/model/Line.s: src/model/Line.cpp.s
 
-.PHONY : model/Vector.s
+.PHONY : src/model/Line.s
 
 # target to generate assembly for a file
-model/Vector.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.s
-.PHONY : model/Vector.cpp.s
+src/model/Line.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.s
+.PHONY : src/model/Line.cpp.s
 
-ui/DefaultMenu.obj: ui/DefaultMenu.cpp.obj
+src/model/Point.obj: src/model/Point.cpp.obj
 
-.PHONY : ui/DefaultMenu.obj
+.PHONY : src/model/Point.obj
 
 # target to build an object file
-ui/DefaultMenu.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.obj
-.PHONY : ui/DefaultMenu.cpp.obj
+src/model/Point.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.obj
+.PHONY : src/model/Point.cpp.obj
 
-ui/DefaultMenu.i: ui/DefaultMenu.cpp.i
+src/model/Point.i: src/model/Point.cpp.i
 
-.PHONY : ui/DefaultMenu.i
+.PHONY : src/model/Point.i
 
 # target to preprocess a source file
-ui/DefaultMenu.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.i
-.PHONY : ui/DefaultMenu.cpp.i
+src/model/Point.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.i
+.PHONY : src/model/Point.cpp.i
 
-ui/DefaultMenu.s: ui/DefaultMenu.cpp.s
+src/model/Point.s: src/model/Point.cpp.s
 
-.PHONY : ui/DefaultMenu.s
+.PHONY : src/model/Point.s
 
 # target to generate assembly for a file
-ui/DefaultMenu.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.s
-.PHONY : ui/DefaultMenu.cpp.s
+src/model/Point.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.s
+.PHONY : src/model/Point.cpp.s
 
-ui/PointMenu.obj: ui/PointMenu.cpp.obj
+src/model/Triangle.obj: src/model/Triangle.cpp.obj
 
-.PHONY : ui/PointMenu.obj
+.PHONY : src/model/Triangle.obj
 
 # target to build an object file
-ui/PointMenu.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.obj
-.PHONY : ui/PointMenu.cpp.obj
+src/model/Triangle.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.obj
+.PHONY : src/model/Triangle.cpp.obj
 
-ui/PointMenu.i: ui/PointMenu.cpp.i
+src/model/Triangle.i: src/model/Triangle.cpp.i
 
-.PHONY : ui/PointMenu.i
+.PHONY : src/model/Triangle.i
 
 # target to preprocess a source file
-ui/PointMenu.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.i
-.PHONY : ui/PointMenu.cpp.i
+src/model/Triangle.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.i
+.PHONY : src/model/Triangle.cpp.i
 
-ui/PointMenu.s: ui/PointMenu.cpp.s
+src/model/Triangle.s: src/model/Triangle.cpp.s
 
-.PHONY : ui/PointMenu.s
+.PHONY : src/model/Triangle.s
 
 # target to generate assembly for a file
-ui/PointMenu.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.s
-.PHONY : ui/PointMenu.cpp.s
+src/model/Triangle.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.s
+.PHONY : src/model/Triangle.cpp.s
 
-ui/StringsMenu.obj: ui/StringsMenu.cpp.obj
+src/model/Vector.obj: src/model/Vector.cpp.obj
 
-.PHONY : ui/StringsMenu.obj
+.PHONY : src/model/Vector.obj
 
 # target to build an object file
-ui/StringsMenu.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.obj
-.PHONY : ui/StringsMenu.cpp.obj
+src/model/Vector.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj
+.PHONY : src/model/Vector.cpp.obj
 
-ui/StringsMenu.i: ui/StringsMenu.cpp.i
+src/model/Vector.i: src/model/Vector.cpp.i
 
-.PHONY : ui/StringsMenu.i
+.PHONY : src/model/Vector.i
 
 # target to preprocess a source file
-ui/StringsMenu.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.i
-.PHONY : ui/StringsMenu.cpp.i
+src/model/Vector.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.i
+.PHONY : src/model/Vector.cpp.i
 
-ui/StringsMenu.s: ui/StringsMenu.cpp.s
+src/model/Vector.s: src/model/Vector.cpp.s
 
-.PHONY : ui/StringsMenu.s
+.PHONY : src/model/Vector.s
 
 # target to generate assembly for a file
-ui/StringsMenu.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.s
-.PHONY : ui/StringsMenu.cpp.s
+src/model/Vector.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.s
+.PHONY : src/model/Vector.cpp.s
 
-ui/VectorMenu.obj: ui/VectorMenu.cpp.obj
+src/ui/DefaultMenu.obj: src/ui/DefaultMenu.cpp.obj
 
-.PHONY : ui/VectorMenu.obj
+.PHONY : src/ui/DefaultMenu.obj
 
 # target to build an object file
-ui/VectorMenu.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.obj
-.PHONY : ui/VectorMenu.cpp.obj
+src/ui/DefaultMenu.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj
+.PHONY : src/ui/DefaultMenu.cpp.obj
 
-ui/VectorMenu.i: ui/VectorMenu.cpp.i
+src/ui/DefaultMenu.i: src/ui/DefaultMenu.cpp.i
 
-.PHONY : ui/VectorMenu.i
+.PHONY : src/ui/DefaultMenu.i
 
 # target to preprocess a source file
-ui/VectorMenu.cpp.i:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.i
-.PHONY : ui/VectorMenu.cpp.i
+src/ui/DefaultMenu.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.i
+.PHONY : src/ui/DefaultMenu.cpp.i
 
-ui/VectorMenu.s: ui/VectorMenu.cpp.s
+src/ui/DefaultMenu.s: src/ui/DefaultMenu.cpp.s
 
-.PHONY : ui/VectorMenu.s
+.PHONY : src/ui/DefaultMenu.s
 
 # target to generate assembly for a file
-ui/VectorMenu.cpp.s:
-	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.s
-.PHONY : ui/VectorMenu.cpp.s
+src/ui/DefaultMenu.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.s
+.PHONY : src/ui/DefaultMenu.cpp.s
+
+src/ui/PointMenu.obj: src/ui/PointMenu.cpp.obj
+
+.PHONY : src/ui/PointMenu.obj
+
+# target to build an object file
+src/ui/PointMenu.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj
+.PHONY : src/ui/PointMenu.cpp.obj
+
+src/ui/PointMenu.i: src/ui/PointMenu.cpp.i
+
+.PHONY : src/ui/PointMenu.i
+
+# target to preprocess a source file
+src/ui/PointMenu.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.i
+.PHONY : src/ui/PointMenu.cpp.i
+
+src/ui/PointMenu.s: src/ui/PointMenu.cpp.s
+
+.PHONY : src/ui/PointMenu.s
+
+# target to generate assembly for a file
+src/ui/PointMenu.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.s
+.PHONY : src/ui/PointMenu.cpp.s
+
+src/ui/StringsMenu.obj: src/ui/StringsMenu.cpp.obj
+
+.PHONY : src/ui/StringsMenu.obj
+
+# target to build an object file
+src/ui/StringsMenu.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj
+.PHONY : src/ui/StringsMenu.cpp.obj
+
+src/ui/StringsMenu.i: src/ui/StringsMenu.cpp.i
+
+.PHONY : src/ui/StringsMenu.i
+
+# target to preprocess a source file
+src/ui/StringsMenu.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.i
+.PHONY : src/ui/StringsMenu.cpp.i
+
+src/ui/StringsMenu.s: src/ui/StringsMenu.cpp.s
+
+.PHONY : src/ui/StringsMenu.s
+
+# target to generate assembly for a file
+src/ui/StringsMenu.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.s
+.PHONY : src/ui/StringsMenu.cpp.s
+
+src/ui/VectorMenu.obj: src/ui/VectorMenu.cpp.obj
+
+.PHONY : src/ui/VectorMenu.obj
+
+# target to build an object file
+src/ui/VectorMenu.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj
+.PHONY : src/ui/VectorMenu.cpp.obj
+
+src/ui/VectorMenu.i: src/ui/VectorMenu.cpp.i
+
+.PHONY : src/ui/VectorMenu.i
+
+# target to preprocess a source file
+src/ui/VectorMenu.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.i
+.PHONY : src/ui/VectorMenu.cpp.i
+
+src/ui/VectorMenu.s: src/ui/VectorMenu.cpp.s
+
+.PHONY : src/ui/VectorMenu.s
+
+# target to generate assembly for a file
+src/ui/VectorMenu.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.s
+.PHONY : src/ui/VectorMenu.cpp.s
 
 # Help Target
 help:
@@ -428,39 +428,39 @@ help:
 	@echo ... ProjectLinearAlgebra
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... exceptions/EqualPointException.obj
-	@echo ... exceptions/EqualPointException.i
-	@echo ... exceptions/EqualPointException.s
-	@echo ... exceptions/VectorLengthException.obj
-	@echo ... exceptions/VectorLengthException.i
-	@echo ... exceptions/VectorLengthException.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... model/Line.obj
-	@echo ... model/Line.i
-	@echo ... model/Line.s
-	@echo ... model/Point.obj
-	@echo ... model/Point.i
-	@echo ... model/Point.s
-	@echo ... model/Triangle.obj
-	@echo ... model/Triangle.i
-	@echo ... model/Triangle.s
-	@echo ... model/Vector.obj
-	@echo ... model/Vector.i
-	@echo ... model/Vector.s
-	@echo ... ui/DefaultMenu.obj
-	@echo ... ui/DefaultMenu.i
-	@echo ... ui/DefaultMenu.s
-	@echo ... ui/PointMenu.obj
-	@echo ... ui/PointMenu.i
-	@echo ... ui/PointMenu.s
-	@echo ... ui/StringsMenu.obj
-	@echo ... ui/StringsMenu.i
-	@echo ... ui/StringsMenu.s
-	@echo ... ui/VectorMenu.obj
-	@echo ... ui/VectorMenu.i
-	@echo ... ui/VectorMenu.s
+	@echo ... src/exceptions/EqualPointException.obj
+	@echo ... src/exceptions/EqualPointException.i
+	@echo ... src/exceptions/EqualPointException.s
+	@echo ... src/exceptions/VectorLengthException.obj
+	@echo ... src/exceptions/VectorLengthException.i
+	@echo ... src/exceptions/VectorLengthException.s
+	@echo ... src/model/Line.obj
+	@echo ... src/model/Line.i
+	@echo ... src/model/Line.s
+	@echo ... src/model/Point.obj
+	@echo ... src/model/Point.i
+	@echo ... src/model/Point.s
+	@echo ... src/model/Triangle.obj
+	@echo ... src/model/Triangle.i
+	@echo ... src/model/Triangle.s
+	@echo ... src/model/Vector.obj
+	@echo ... src/model/Vector.i
+	@echo ... src/model/Vector.s
+	@echo ... src/ui/DefaultMenu.obj
+	@echo ... src/ui/DefaultMenu.i
+	@echo ... src/ui/DefaultMenu.s
+	@echo ... src/ui/PointMenu.obj
+	@echo ... src/ui/PointMenu.i
+	@echo ... src/ui/PointMenu.s
+	@echo ... src/ui/StringsMenu.obj
+	@echo ... src/ui/StringsMenu.i
+	@echo ... src/ui/StringsMenu.s
+	@echo ... src/ui/VectorMenu.obj
+	@echo ... src/ui/VectorMenu.i
+	@echo ... src/ui/VectorMenu.s
 .PHONY : help
 
 

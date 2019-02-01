@@ -1,16 +1,16 @@
 #include <iostream>
 
-#include "exceptions\EqualPointException.h"
-#include "exceptions\VectorLengthException.h"
-#include "ui\DefaultMenu.h"
-#include "ui\Menu.h"
-#include "ui\PointMenu.h"
-#include "ui\VectorMenu.h"
-#include "ui\OperationsMenu.h"
-#include "model\Point.h"
-#include "model\Vector.h"
-#include "model\Line.h"
-#include "model\Triangle.h"
+#include "src\exceptions\EqualPointException.h"
+#include "src\exceptions\VectorLengthException.h"
+#include "src\ui\DefaultMenu.h"
+#include "src\ui\Menu.h"
+#include "src\ui\PointMenu.h"
+#include "src\ui\VectorMenu.h"
+#include "src\ui\OperationsMenu.h"
+#include "src\model\Point.h"
+#include "src\model\Vector.h"
+#include "src\model\Line.h"
+#include "src\model\Triangle.h"
 
 int main(int argc, char *argv[])
 {

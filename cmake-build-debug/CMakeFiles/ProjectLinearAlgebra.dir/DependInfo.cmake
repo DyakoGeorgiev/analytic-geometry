@@ -4,17 +4,17 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Diakoff/ProjectLinearAlgebra/exceptions/EqualPointException.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.obj"
-  "C:/Users/Diakoff/ProjectLinearAlgebra/exceptions/VectorLengthException.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.obj"
   "C:/Users/Diakoff/ProjectLinearAlgebra/main.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.obj"
-  "C:/Users/Diakoff/ProjectLinearAlgebra/model/Line.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.obj"
-  "C:/Users/Diakoff/ProjectLinearAlgebra/model/Point.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.obj"
-  "C:/Users/Diakoff/ProjectLinearAlgebra/model/Triangle.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.obj"
-  "C:/Users/Diakoff/ProjectLinearAlgebra/model/Vector.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.obj"
-  "C:/Users/Diakoff/ProjectLinearAlgebra/ui/DefaultMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.obj"
-  "C:/Users/Diakoff/ProjectLinearAlgebra/ui/PointMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.obj"
-  "C:/Users/Diakoff/ProjectLinearAlgebra/ui/StringsMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.obj"
-  "C:/Users/Diakoff/ProjectLinearAlgebra/ui/VectorMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/exceptions/EqualPointException.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/exceptions/VectorLengthException.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Line.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Point.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Triangle.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Vector.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/DefaultMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/PointMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/StringsMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/VectorMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

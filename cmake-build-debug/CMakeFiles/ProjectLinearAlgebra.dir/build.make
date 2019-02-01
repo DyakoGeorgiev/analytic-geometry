@@ -69,164 +69,164 @@ CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\main.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\main.cpp.s
 
-CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.obj: ../exceptions/EqualPointException.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\exceptions\EqualPointException.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\exceptions\EqualPointException.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj: ../src/exceptions/EqualPointException.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\exceptions\EqualPointException.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\exceptions\EqualPointException.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\exceptions\EqualPointException.cpp > CMakeFiles\ProjectLinearAlgebra.dir\exceptions\EqualPointException.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\exceptions\EqualPointException.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\exceptions\EqualPointException.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\exceptions\EqualPointException.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\exceptions\EqualPointException.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\exceptions\EqualPointException.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\exceptions\EqualPointException.cpp.s
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.obj: ../model/Point.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\model\Point.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\model\Point.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.obj: ../src/model/Point.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\model\Point.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Point.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\model\Point.cpp > CMakeFiles\ProjectLinearAlgebra.dir\model\Point.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Point.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\model\Point.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\model\Point.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\model\Point.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Point.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\model\Point.cpp.s
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.obj: ../model/Vector.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\model\Vector.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\model\Vector.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj: ../src/model/Vector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\model\Vector.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Vector.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\model\Vector.cpp > CMakeFiles\ProjectLinearAlgebra.dir\model\Vector.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Vector.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\model\Vector.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\model\Vector.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\model\Vector.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Vector.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\model\Vector.cpp.s
 
-CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.obj: ../exceptions/VectorLengthException.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\exceptions\VectorLengthException.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\exceptions\VectorLengthException.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.obj: ../src/exceptions/VectorLengthException.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\exceptions\VectorLengthException.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\exceptions\VectorLengthException.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\exceptions\VectorLengthException.cpp > CMakeFiles\ProjectLinearAlgebra.dir\exceptions\VectorLengthException.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\exceptions\VectorLengthException.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\exceptions\VectorLengthException.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\exceptions\VectorLengthException.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\exceptions\VectorLengthException.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\exceptions\VectorLengthException.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\exceptions\VectorLengthException.cpp.s
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.obj: ../model/Line.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\model\Line.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\model\Line.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.obj: ../src/model/Line.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\model\Line.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Line.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\model\Line.cpp > CMakeFiles\ProjectLinearAlgebra.dir\model\Line.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Line.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\model\Line.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\model\Line.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\model\Line.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Line.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\model\Line.cpp.s
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.obj: ../model/Triangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\model\Triangle.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\model\Triangle.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.obj: ../src/model/Triangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\model\Triangle.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Triangle.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\model\Triangle.cpp > CMakeFiles\ProjectLinearAlgebra.dir\model\Triangle.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Triangle.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\model\Triangle.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\model\Triangle.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\model\Triangle.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\model\Triangle.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\model\Triangle.cpp.s
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.obj: ../ui/PointMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\ui\PointMenu.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\ui\PointMenu.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj: ../src/ui/PointMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\ui\PointMenu.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\PointMenu.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\ui\PointMenu.cpp > CMakeFiles\ProjectLinearAlgebra.dir\ui\PointMenu.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\PointMenu.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\ui\PointMenu.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\ui\PointMenu.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\ui\PointMenu.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\PointMenu.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\ui\PointMenu.cpp.s
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.obj: ../ui/DefaultMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\ui\DefaultMenu.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\ui\DefaultMenu.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj: ../src/ui/DefaultMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\ui\DefaultMenu.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\DefaultMenu.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\ui\DefaultMenu.cpp > CMakeFiles\ProjectLinearAlgebra.dir\ui\DefaultMenu.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\DefaultMenu.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\ui\DefaultMenu.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\ui\DefaultMenu.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\ui\DefaultMenu.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\DefaultMenu.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\ui\DefaultMenu.cpp.s
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.obj: ../ui/VectorMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\ui\VectorMenu.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\ui\VectorMenu.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj: ../src/ui/VectorMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\ui\VectorMenu.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\VectorMenu.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\ui\VectorMenu.cpp > CMakeFiles\ProjectLinearAlgebra.dir\ui\VectorMenu.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\VectorMenu.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\ui\VectorMenu.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\ui\VectorMenu.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\ui\VectorMenu.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\VectorMenu.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\ui\VectorMenu.cpp.s
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
-CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.obj: ../ui/StringsMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\ui\StringsMenu.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\ui\StringsMenu.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj: CMakeFiles/ProjectLinearAlgebra.dir/flags.make
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj: ../src/ui/StringsMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Diakoff\ProjectLinearAlgebra\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProjectLinearAlgebra.dir\src\ui\StringsMenu.cpp.obj -c C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\StringsMenu.cpp
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\ui\StringsMenu.cpp > CMakeFiles\ProjectLinearAlgebra.dir\ui\StringsMenu.cpp.i
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\StringsMenu.cpp > CMakeFiles\ProjectLinearAlgebra.dir\src\ui\StringsMenu.cpp.i
 
-CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\ui\StringsMenu.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\ui\StringsMenu.cpp.s
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Diakoff\ProjectLinearAlgebra\src\ui\StringsMenu.cpp -o CMakeFiles\ProjectLinearAlgebra.dir\src\ui\StringsMenu.cpp.s
 
 # Object files for target ProjectLinearAlgebra
 ProjectLinearAlgebra_OBJECTS = \
 "CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.obj" \
-"CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.obj" \
-"CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.obj" \
-"CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.obj" \
-"CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.obj" \
-"CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.obj" \
-"CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.obj" \
-"CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.obj" \
-"CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.obj" \
-"CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.obj" \
-"CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.obj"
+"CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj" \
+"CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.obj" \
+"CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj" \
+"CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.obj" \
+"CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.obj" \
+"CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.obj" \
+"CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj" \
+"CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj" \
+"CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj" \
+"CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj"
 
 # External object files for target ProjectLinearAlgebra
 ProjectLinearAlgebra_EXTERNAL_OBJECTS =
 
 ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/main.cpp.obj
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/exceptions/EqualPointException.cpp.obj
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/model/Point.cpp.obj
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/model/Vector.cpp.obj
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/exceptions/VectorLengthException.cpp.obj
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/model/Line.cpp.obj
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/model/Triangle.cpp.obj
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/ui/PointMenu.cpp.obj
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/ui/DefaultMenu.cpp.obj
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/ui/VectorMenu.cpp.obj
-ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/ui/StringsMenu.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/EqualPointException.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/model/Point.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/exceptions/VectorLengthException.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj
+ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj
 ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/build.make
 ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/linklibs.rsp
 ProjectLinearAlgebra.exe: CMakeFiles/ProjectLinearAlgebra.dir/objects1.rsp
