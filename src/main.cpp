@@ -11,12 +11,14 @@
 #include "model/Vector.h"
 #include "model/Line.h"
 #include "model/Triangle.h"
+#include "ui/TriangleMenu.h"
 
 int main(int argc, char *argv[])
 {
     DefaultMenu defaultMenu;
     PointMenu pointMenu;
     VectorMenu vectorMenu;
+    TriangleMenu triangleMenu;
 
     int choice = 0;
     char opinion = ' ';
@@ -44,7 +46,9 @@ int main(int argc, char *argv[])
                 break;
             case 3:
                 //lineMenu.process();
-                cout << "Goodbye!";
+                break;
+            case 4:
+                triangleMenu.process();
                 break;
             default:
                 break;

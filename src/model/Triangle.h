@@ -13,7 +13,7 @@ public:
     int typeTriangle() const;
     double areaTriangle() const;
     double perimeterTriangle() const;
-    Point medicentre(const Point& , const Point& , const Point& ) const;
+    Point centroid(const Point& , const Point& , const Point& ) const;
 
     std::ostream& inserter(std::ostream&) const override;
     std::istream& extractor(std::istream&) override;

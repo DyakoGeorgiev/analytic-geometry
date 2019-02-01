@@ -39,13 +39,10 @@ double Vector::vectorLength() {
 }
 
 
-
-
 bool Vector::nullVector() const {
     return getX() == 0 && getY() == 0 && getZ() == 0;
     //Point with 3 coordinates
 }
-
 
 
 Vector Vector::vectorDirection() {
@@ -76,7 +73,6 @@ bool Vector::vectorParallelism(Vector& rhs) {
         double res3 = getZ() / rhs.getZ();
         return res1 == res2 && res1 == res3 && res2 == res3;
     }
-    return false;
 }
 
 

@@ -9,7 +9,7 @@ public:
     static void displayVector();
     static void displayPoint();
     static void displayDefaultMenu();
-    //void displayTriangle();
+    static void displayTriangle();
     //void displayLine();
     //static std::string defaultMenu = "Please choose the type of the object: ";
 private:

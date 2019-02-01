@@ -18,6 +18,7 @@ CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/DefaultMenu.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/Menu.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/OperationsMenu.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/PointMenu.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/TriangleMenu.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/VectorMenu.h
 
 CMakeFiles/ProjectLinearAlgebra.dir/src/model/Line.cpp.obj: ../src/exceptions/EqualPointException.h
@@ -44,6 +45,9 @@ CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj: ../src/ui/Defaul
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj: ../src/ui/Menu.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj: ../src/ui/StringsMenu.h
 
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/ui/LineMenu.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/ui/LineMenu.h
+
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj: ../src/model/Point.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj: ../src/ui/DefaultMenu.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj: ../src/ui/Menu.h
@@ -54,6 +58,15 @@ CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj: ../src/ui/StringsM
 
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj: ../src/ui/StringsMenu.cpp
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj: ../src/ui/StringsMenu.h
+
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj: ../src/exceptions/EqualPointException.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj: ../src/model/Point.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj: ../src/model/Triangle.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj: ../src/ui/Menu.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj: ../src/ui/OperationsMenu.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj: ../src/ui/StringsMenu.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj: ../src/ui/TriangleMenu.cpp
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj: ../src/ui/TriangleMenu.h
 
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj: ../src/exceptions/VectorLengthException.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj: ../src/model/Point.h

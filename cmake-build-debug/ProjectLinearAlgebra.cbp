@@ -125,6 +125,12 @@
 		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/DefaultMenu.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/LineMenu.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/LineMenu.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
 		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/Menu.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
@@ -141,6 +147,12 @@
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
 		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/StringsMenu.h">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/TriangleMenu.cpp">
+			<Option target="ProjectLinearAlgebra"/>
+		</Unit>
+		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/TriangleMenu.h">
 			<Option target="ProjectLinearAlgebra"/>
 		</Unit>
 		<Unit filename="C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/VectorMenu.cpp">

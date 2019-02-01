@@ -82,7 +82,7 @@ double VectorMenu::getInt(){
 
 //case 1
 void VectorMenu::getVectorLength(class Vector vector) {
-    std::cout << std::endl << "Vector length: " << vector << " e: " << vector.vectorLength() << std::endl;
+    std::cout << std::endl << "Vector length: " << vector << " is: " << vector.vectorLength() << std::endl;
 }
 
 //case 2

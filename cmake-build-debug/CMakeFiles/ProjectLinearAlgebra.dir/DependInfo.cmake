@@ -12,8 +12,10 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Triangle.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/model/Triangle.cpp.obj"
   "C:/Users/Diakoff/ProjectLinearAlgebra/src/model/Vector.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/model/Vector.cpp.obj"
   "C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/DefaultMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/LineMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj"
   "C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/PointMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj"
   "C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/StringsMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj"
+  "C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/TriangleMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj"
   "C:/Users/Diakoff/ProjectLinearAlgebra/src/ui/VectorMenu.cpp" "C:/Users/Diakoff/ProjectLinearAlgebra/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

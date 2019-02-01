@@ -338,6 +338,33 @@ src/ui/DefaultMenu.cpp.s:
 	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.s
 .PHONY : src/ui/DefaultMenu.cpp.s
 
+src/ui/LineMenu.obj: src/ui/LineMenu.cpp.obj
+
+.PHONY : src/ui/LineMenu.obj
+
+# target to build an object file
+src/ui/LineMenu.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj
+.PHONY : src/ui/LineMenu.cpp.obj
+
+src/ui/LineMenu.i: src/ui/LineMenu.cpp.i
+
+.PHONY : src/ui/LineMenu.i
+
+# target to preprocess a source file
+src/ui/LineMenu.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.i
+.PHONY : src/ui/LineMenu.cpp.i
+
+src/ui/LineMenu.s: src/ui/LineMenu.cpp.s
+
+.PHONY : src/ui/LineMenu.s
+
+# target to generate assembly for a file
+src/ui/LineMenu.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.s
+.PHONY : src/ui/LineMenu.cpp.s
+
 src/ui/PointMenu.obj: src/ui/PointMenu.cpp.obj
 
 .PHONY : src/ui/PointMenu.obj
@@ -391,6 +418,33 @@ src/ui/StringsMenu.s: src/ui/StringsMenu.cpp.s
 src/ui/StringsMenu.cpp.s:
 	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.s
 .PHONY : src/ui/StringsMenu.cpp.s
+
+src/ui/TriangleMenu.obj: src/ui/TriangleMenu.cpp.obj
+
+.PHONY : src/ui/TriangleMenu.obj
+
+# target to build an object file
+src/ui/TriangleMenu.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj
+.PHONY : src/ui/TriangleMenu.cpp.obj
+
+src/ui/TriangleMenu.i: src/ui/TriangleMenu.cpp.i
+
+.PHONY : src/ui/TriangleMenu.i
+
+# target to preprocess a source file
+src/ui/TriangleMenu.cpp.i:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.i
+.PHONY : src/ui/TriangleMenu.cpp.i
+
+src/ui/TriangleMenu.s: src/ui/TriangleMenu.cpp.s
+
+.PHONY : src/ui/TriangleMenu.s
+
+# target to generate assembly for a file
+src/ui/TriangleMenu.cpp.s:
+	$(MAKE) -f CMakeFiles\ProjectLinearAlgebra.dir\build.make CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.s
+.PHONY : src/ui/TriangleMenu.cpp.s
 
 src/ui/VectorMenu.obj: src/ui/VectorMenu.cpp.obj
 
@@ -452,12 +506,18 @@ help:
 	@echo ... src/ui/DefaultMenu.obj
 	@echo ... src/ui/DefaultMenu.i
 	@echo ... src/ui/DefaultMenu.s
+	@echo ... src/ui/LineMenu.obj
+	@echo ... src/ui/LineMenu.i
+	@echo ... src/ui/LineMenu.s
 	@echo ... src/ui/PointMenu.obj
 	@echo ... src/ui/PointMenu.i
 	@echo ... src/ui/PointMenu.s
 	@echo ... src/ui/StringsMenu.obj
 	@echo ... src/ui/StringsMenu.i
 	@echo ... src/ui/StringsMenu.s
+	@echo ... src/ui/TriangleMenu.obj
+	@echo ... src/ui/TriangleMenu.i
+	@echo ... src/ui/TriangleMenu.s
 	@echo ... src/ui/VectorMenu.obj
 	@echo ... src/ui/VectorMenu.i
 	@echo ... src/ui/VectorMenu.s

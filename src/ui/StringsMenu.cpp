@@ -30,3 +30,11 @@ void StringsMenu::displayVector() {
               std::endl << "10 - Vektorno proizvedenie na dva vektora: " <<
               std::endl << "11 - Smeseno proizvedenie na dva vektora: " << std::endl;
 }
+
+void StringsMenu::displayTriangle() {
+    std::cout << "Please choose operation for the object :" << std::endl;
+    std::cout << "1 - Triangle type " << std::endl
+              << "2 - Triangle Area " << std::endl
+              << "3 - Triangle Perimeter " << std::endl
+              << "4 - Triangle Medicentre " << std::endl;
+}

@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj"
   "CMakeFiles/ProjectLinearAlgebra.dir/src/ui/VectorMenu.cpp.obj"
   "CMakeFiles/ProjectLinearAlgebra.dir/src/ui/StringsMenu.cpp.obj"
+  "CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj"
+  "CMakeFiles/ProjectLinearAlgebra.dir/src/ui/TriangleMenu.cpp.obj"
   "ProjectLinearAlgebra.pdb"
   "ProjectLinearAlgebra.exe"
   "ProjectLinearAlgebra.exe.manifest"
