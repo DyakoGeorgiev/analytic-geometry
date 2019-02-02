@@ -12,26 +12,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b27109b6-3dc7-42df-bc3e-80cbd39cf9e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ui/LineMenu.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/LineMenu.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectLinearAlgebra.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProjectLinearAlgebra.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProjectLinearAlgebra.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProjectLinearAlgebra.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Triangle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Triangle.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Triangle.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Triangle.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Vector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Vector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Line.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Line.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/LineMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/LineMenu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/LineMenu.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/LineMenu.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/PointMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/PointMenu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/PointMenu.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/PointMenu.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ui/StringsMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/StringsMenu.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ui/StringsMenu.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/StringsMenu.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/VectorMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/VectorMenu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/TriangleMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/TriangleMenu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/TriangleMenu.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/TriangleMenu.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/VectorMenu.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/VectorMenu.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,26 +36,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ui/TriangleMenu.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
-              <folding>
-                <element signature="e#46#71#0" expanded="true" />
-                <element signature="e#119#481#0" />
-                <element signature="e#1200#1693#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+            <state relative-caret-position="68">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -70,40 +50,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/Triangle.h">
+        <entry file="file://$PROJECT_DIR$/src/ui/PointMenu.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/Triangle.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-146">
-              <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+            <state relative-caret-position="286">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
               <folding>
-                <element signature="e#2#23#0" expanded="true" />
+                <element signature="e#84#101#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/model/Vector.cpp">
+        <entry file="file://$PROJECT_DIR$/src/ui/PointMenu.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="101">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
               <folding>
-                <element signature="e#171#313#0" />
-                <element signature="e#393#511#0" />
-                <element signature="e#513#597#0" />
-                <element signature="e#599#687#0" />
-                <element signature="e#688#771#0" />
-                <element signature="e#774#871#0" />
-                <element signature="e#876#996#0" />
-                <element signature="e#1000#1287#0" />
+                <element signature="e#1#23#0" expanded="true" />
+                <element signature="e#95#454#0" />
+                <element signature="e#457#761#0" />
               </folding>
             </state>
           </provider>
@@ -112,52 +78,64 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ui/StringsMenu.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="41" column="15" lean-forward="true" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
               <folding>
                 <element signature="e#28#284#0" />
                 <element signature="e#286#529#0" />
                 <element signature="e#531#1402#0" />
+                <element signature="e#1404#1733#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ui/StringsMenu.h">
+        <entry file="file://$PROJECT_DIR$/src/ui/LineMenu.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ui/TriangleMenu.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="374">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding>
-                <element signature="e#135#152#0" expanded="true" />
+                <element signature="e#83#100#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ui/LineMenu.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+              <folding>
+                <element signature="e#2#23#0" expanded="true" />
+                <element signature="e#476#847#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Point.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ui/OperationsMenu.h">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ui/VectorMenu.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+            <state relative-caret-position="403">
+              <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
               <folding>
                 <element signature="e#1#29#0" expanded="true" />
                 <element signature="e#176#538#0" />
                 <element signature="e#1555#1685#0" />
                 <element signature="e#1835#1933#0" />
                 <element signature="e#1934#1980#0" />
-                <element signature="e#2157#2458#0" />
-                <element signature="e#2460#2713#0" />
-                <element signature="e#2715#2855#0" />
               </folding>
             </state>
           </provider>
@@ -166,8 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ui/VectorMenu.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="221">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#86#103#0" expanded="true" />
               </folding>
@@ -213,17 +191,21 @@
         <option value="$PROJECT_DIR$/ui/VectorMenu.h" />
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/src/model/Line.cpp" />
-        <option value="$PROJECT_DIR$/src/ui/LineMenu.cpp" />
-        <option value="$PROJECT_DIR$/src/ui/LineMenu.h" />
-        <option value="$PROJECT_DIR$/src/ui/StringsMenu.h" />
-        <option value="$PROJECT_DIR$/src/ui/StringsMenu.cpp" />
         <option value="$PROJECT_DIR$/src/ui/VectorMenu.cpp" />
-        <option value="$PROJECT_DIR$/src/ui/TriangleMenu.h" />
-        <option value="$PROJECT_DIR$/src/main.cpp" />
         <option value="$PROJECT_DIR$/src/model/Triangle.h" />
         <option value="$PROJECT_DIR$/src/model/Triangle.cpp" />
         <option value="$PROJECT_DIR$/src/model/Vector.cpp" />
         <option value="$PROJECT_DIR$/src/ui/TriangleMenu.cpp" />
+        <option value="$PROJECT_DIR$/src/ui/StringsMenu.h" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/src/ui/StringsMenu.cpp" />
+        <option value="$PROJECT_DIR$/src/ui/VectorMenu.h" />
+        <option value="$PROJECT_DIR$/src/ui/TriangleMenu.h" />
+        <option value="$PROJECT_DIR$/src/ui/LineMenu.h" />
+        <option value="$PROJECT_DIR$/src/model/Line.h" />
+        <option value="$PROJECT_DIR$/src/ui/PointMenu.cpp" />
+        <option value="$PROJECT_DIR$/src/ui/PointMenu.h" />
+        <option value="$PROJECT_DIR$/src/ui/LineMenu.cpp" />
       </list>
     </option>
   </component>
@@ -239,6 +221,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,7 +260,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,12 +307,13 @@
       <updated>1547484933383</updated>
       <workItem from="1547484935661" duration="30051000" />
       <workItem from="1549020024115" duration="650000" />
-      <workItem from="1549039522227" duration="8764000" />
+      <workItem from="1549039522227" duration="9325000" />
+      <workItem from="1549066003563" duration="2592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39465000" />
+    <option name="totallyTimeSpent" value="42618000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -346,9 +329,9 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18986385" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19288956" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.51839465" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.72408026" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -356,7 +339,7 @@
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32943144" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.37458193" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.40468228" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -384,44 +367,13 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/menu/GeometryObjectsEnum.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Line.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#119#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Point.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/menu/GeometryObjectsEnum.h" />
     <entry file="file://$PROJECT_DIR$/src/model/Vector.h">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#124#142#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/Menu.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/OperationsMenu.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/PointMenu.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -470,40 +422,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/DefaultMenu.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#89#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ui/DefaultMenu.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
             <element signature="e#2#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/LineMenu.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/LineMenu.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/PointMenu.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#1#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -518,71 +442,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/VectorMenu.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <element signature="e#86#103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/StringsMenu.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/VectorMenu.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-          <folding>
-            <element signature="e#1#29#0" expanded="true" />
-            <element signature="e#176#538#0" />
-            <element signature="e#1555#1685#0" />
-            <element signature="e#1835#1933#0" />
-            <element signature="e#1934#1980#0" />
-            <element signature="e#2157#2458#0" />
-            <element signature="e#2460#2713#0" />
-            <element signature="e#2715#2855#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/TriangleMenu.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#135#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/model/Triangle.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Triangle.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146">
-          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
-          <folding>
-            <element signature="e#2#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/Vector.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#171#313#0" />
             <element signature="e#393#511#0" />
@@ -596,36 +466,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+    <entry file="file://$PROJECT_DIR$/src/model/Triangle.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        <state relative-caret-position="536">
+          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ui/StringsMenu.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding>
-            <element signature="e#28#284#0" />
-            <element signature="e#286#529#0" />
-            <element signature="e#531#1402#0" />
+            <element signature="e#2#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ui/TriangleMenu.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
           <folding>
             <element signature="e#46#71#0" expanded="true" />
-            <element signature="e#119#481#0" />
-            <element signature="e#1200#1693#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/Menu.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/TriangleMenu.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/StringsMenu.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/DefaultMenu.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#89#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Line.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/VectorMenu.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#86#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/VectorMenu.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+          <folding>
+            <element signature="e#1#29#0" expanded="true" />
+            <element signature="e#176#538#0" />
+            <element signature="e#1555#1685#0" />
+            <element signature="e#1835#1933#0" />
+            <element signature="e#1934#1980#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/StringsMenu.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="41" column="15" lean-forward="true" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+          <folding>
+            <element signature="e#28#284#0" />
+            <element signature="e#286#529#0" />
+            <element signature="e#531#1402#0" />
+            <element signature="e#1404#1733#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/OperationsMenu.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/PointMenu.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#84#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/PointMenu.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#1#23#0" expanded="true" />
+            <element signature="e#95#454#0" />
+            <element signature="e#457#761#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Point.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/LineMenu.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="e#83#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/LineMenu.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#2#23#0" expanded="true" />
+            <element signature="e#476#847#0" />
           </folding>
         </state>
       </provider>

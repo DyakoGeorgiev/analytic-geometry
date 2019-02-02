@@ -38,3 +38,10 @@ void StringsMenu::displayTriangle() {
               << "3 - Triangle Perimeter " << std::endl
               << "4 - Triangle Medicentre " << std::endl;
 }
+
+void StringsMenu::displayLine(){
+    std::cout << "Please choose operation for the object :" << std::endl;
+    std::cout << "1 - Line direction " << std::endl
+              << "2 - Find Normal Vector " << std::endl
+              << "3 - Check if Point lies on the Line " << std::endl;
+}

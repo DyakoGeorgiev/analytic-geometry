@@ -31,14 +31,16 @@ void PointMenu::doTheChoiceOperations(int choice){
     }
 }
 
-class Point PointMenu::pointInput(){
-    std::cout <<  std::endl << "Vuvedete danni za Point: " <<  std::endl;
+Point PointMenu::pointInput(){
+    std::cout <<  std::endl << "Point 1: " <<  std::endl;
     std::cin >> point;
+    return point;
 }
 
-class Point PointMenu::pointSecondInput() {
-    std::cout <<  std::endl << "Vuvedete danni za Point 2: " <<  std::endl;
+Point PointMenu::pointSecondInput() {
+    std::cout <<  std::endl << "Point 2: " <<  std::endl;
     std::cin >> pointSecond;
+    return pointSecond;
 }
 
 //case 1

@@ -11,10 +11,12 @@
 
 class TriangleMenu : public Menu, OperationsMenu, protected Triangle {
 public:
+    TriangleMenu() = default;
+
+    Triangle initializeTriangle();
 
     int process() override;
     void doTheChoiceOperations(int choice) override;
-    Triangle initializeTriangle();
 
     void getTriangleType(Triangle);
     void getTriangleArea(Triangle);

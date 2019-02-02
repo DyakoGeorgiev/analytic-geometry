@@ -9,6 +9,8 @@
 class Line : public Vector
 {
 public:
+    Line() = default;
+
     Line(Point &, Vector&);
 
     Line(Point &, Point &);

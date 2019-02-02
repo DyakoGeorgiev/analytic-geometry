@@ -26,13 +26,13 @@ Triangle TriangleMenu::initializeTriangle(){
 
     try {
         std::cout << "Point 1: " << std::endl;
-        cin >> p1;
+        std::cin >> p1;
         cin.ignore();
         std::cout << "Point 2: " << std::endl;
-        cin >> p2;
+        std::cin >> p2;
         cin.ignore();
         std::cout << "Point 3: " << std::endl;
-        cin >> p3;
+        std::cin >> p3;
         cin.ignore();
 
         if (p1 == p2) {

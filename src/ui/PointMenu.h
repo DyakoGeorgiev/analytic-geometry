@@ -9,8 +9,12 @@
 
 class PointMenu :public Menu, OperationsMenu, protected Point {
 public:
+
+    PointMenu() = default;
+
     int process() override;
     void doTheChoiceOperations(int choice) override;
+
     void getPointCoordinates(Point);
     void getIfTwoPointAreEqual (Point);
 

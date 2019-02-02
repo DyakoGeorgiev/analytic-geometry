@@ -10,8 +10,7 @@ public:
     static void displayPoint();
     static void displayDefaultMenu();
     static void displayTriangle();
-    //void displayLine();
-    //static std::string defaultMenu = "Please choose the type of the object: ";
+    static void displayLine();
 private:
     StringsMenu();
 };

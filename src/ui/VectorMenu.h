@@ -10,6 +10,8 @@
 class VectorMenu :public Menu, OperationsMenu, protected Vector {
 public:
 
+    VectorMenu() = default;
+
     Vector vectorInput();
     Vector vectorInputSecondVector();
 

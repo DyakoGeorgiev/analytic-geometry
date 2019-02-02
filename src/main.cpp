@@ -7,17 +7,20 @@
 #include "ui/PointMenu.h"
 #include "ui/VectorMenu.h"
 #include "ui/OperationsMenu.h"
+#include "ui/TriangleMenu.h"
+#include "ui/LineMenu.h"
 #include "model/Point.h"
 #include "model/Vector.h"
 #include "model/Line.h"
 #include "model/Triangle.h"
-#include "ui/TriangleMenu.h"
+
 
 int main(int argc, char *argv[])
 {
     DefaultMenu defaultMenu;
     PointMenu pointMenu;
     VectorMenu vectorMenu;
+    LineMenu lineMenu;
     TriangleMenu triangleMenu;
 
     int choice = 0;
@@ -45,7 +48,7 @@ int main(int argc, char *argv[])
                 vectorMenu.process();
                 break;
             case 3:
-                //lineMenu.process();
+                lineMenu.process();
                 break;
             case 4:
                 triangleMenu.process();

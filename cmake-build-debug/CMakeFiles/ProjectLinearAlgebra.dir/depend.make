@@ -15,6 +15,7 @@ CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/model/Point.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/model/Triangle.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/model/Vector.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/DefaultMenu.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/LineMenu.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/Menu.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/OperationsMenu.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/main.cpp.obj: ../src/ui/PointMenu.h
@@ -45,8 +46,16 @@ CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj: ../src/ui/Defaul
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj: ../src/ui/Menu.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/DefaultMenu.cpp.obj: ../src/ui/StringsMenu.h
 
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/exceptions/EqualPointException.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/model/Line.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/model/Point.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/model/Vector.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/ui/LineMenu.cpp
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/ui/LineMenu.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/ui/Menu.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/ui/OperationsMenu.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/ui/PointMenu.h
+CMakeFiles/ProjectLinearAlgebra.dir/src/ui/LineMenu.cpp.obj: ../src/ui/StringsMenu.h
 
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj: ../src/model/Point.h
 CMakeFiles/ProjectLinearAlgebra.dir/src/ui/PointMenu.cpp.obj: ../src/ui/DefaultMenu.h
