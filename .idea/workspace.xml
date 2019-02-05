@@ -11,22 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b27109b6-3dc7-42df-bc3e-80cbd39cf9e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProjectLinearAlgebra.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Line.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Line.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/LineMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/LineMenu.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/LineMenu.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/LineMenu.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/PointMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/PointMenu.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/PointMenu.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/PointMenu.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/StringsMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/StringsMenu.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/StringsMenu.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/StringsMenu.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/TriangleMenu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/TriangleMenu.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/TriangleMenu.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/TriangleMenu.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/VectorMenu.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/VectorMenu.h" afterDir="false" />
-    </list>
+    <list default="true" id="b27109b6-3dc7-42df-bc3e-80cbd39cf9e9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +90,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ui/LineMenu.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="38">
               <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
               <folding>
                 <element signature="e#2#23#0" expanded="true" />
@@ -308,12 +293,12 @@
       <workItem from="1547484935661" duration="30051000" />
       <workItem from="1549020024115" duration="650000" />
       <workItem from="1549039522227" duration="9325000" />
-      <workItem from="1549066003563" duration="2592000" />
+      <workItem from="1549066003563" duration="3066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42618000" />
+    <option name="totallyTimeSpent" value="43092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,7 +311,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19288956" />
@@ -339,7 +323,7 @@
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32943144" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.40468228" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.21404682" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -606,7 +590,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ui/LineMenu.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="38">
           <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
           <folding>
             <element signature="e#2#23#0" expanded="true" />
